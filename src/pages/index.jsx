@@ -9,7 +9,6 @@ import SectionBlog from '../components/section-blog';
 import SectionExperience from '../components/section-experience';
 import SectionProjects from '../components/section-projects';
 import SectionSkills from '../components/section-skills';
-import SectionResume from '../components/section-resume';
 import SEO from '../components/seo';
 
 const Index = ({ data }) => {
@@ -18,7 +17,6 @@ const Index = ({ data }) => {
   const posts = data.allMarkdownRemark.edges;
   const experience = get(data, 'site.siteMetadata.experience', false);
   const skills = get(data, 'site.siteMetadata.skills', false);
-  const resume = get(data, 'site.siteMetadata.resume', false);
   const noBlog = !posts || !posts.length;
 
   return (
@@ -62,11 +60,6 @@ export const pageQuery = graphql`
         skills {
           name
           description
-        }
-        resume {
-          name
-          description
-          link
         }
       }
     }
