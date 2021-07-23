@@ -55,7 +55,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Java, C, Python, SQL',
+          'Java, C, Python, SQL, Spring Boot',
       },
       {
         name: 'Databases',
