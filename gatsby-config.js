@@ -7,9 +7,9 @@ module.exports = {
     // Main Site Title
     title: `Ivor Zalud`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Aspiring software developer based in Seattle, WA`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@ivorzalud`,
     // Optional: Github account URL
     github: `https://github.com/ivor808`,
     // Optional: LinkedIn account URL
@@ -19,40 +19,35 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Health Data Toolkit',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A RESTful project using spring boot to load and process health related JSON data, made with two other students',
+        link: 'https://github.com/Ivor808/CS5500-Project',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Python Checkers',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'A checkers game in Python with a UI and computer player',
+        link: 'https://github.com/Ivor808/PyCheckers',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Personal Blog v1',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A personal blog and portfolio site created with Django',
+        link: 'https://github.com/Ivor808/personal-blog',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'BlackRock',
+        description: 'Client Reporting Analyst, June 2018 - Present',
+        link: 'https://www.blackrock.com/us/individual',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Bank of New York Mellon',
+        description: 'Intern, May 2017 - September 2020',
+        link: 'https://www.bnymellon.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +55,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, C, Python, SQL',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Agile / Scrum, Algorithms, Data Structures',
       },
     ],
   },
