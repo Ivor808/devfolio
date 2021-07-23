@@ -3,7 +3,7 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Ivor Zalud',
     // Main Site Title
     title: `Ivor Zalud`,
     // Description that goes under your name in main bio
