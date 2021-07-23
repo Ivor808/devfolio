@@ -46,7 +46,7 @@ module.exports = {
       },
       {
         name: 'Bank of New York Mellon',
-        description: 'Intern, May 2017 - September 2020',
+        description: 'Intern, May 2017 - September 2017',
         link: 'https://www.bnymellon.com/',
       },
     ],
