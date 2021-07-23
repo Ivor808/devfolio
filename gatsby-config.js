@@ -67,6 +67,12 @@ module.exports = {
           'Agile / Scrum, Algorithms, Data Structures',
       },
     ],
+    resume: [
+      {
+        name:'Test',
+        description:'test',
+      }
+    ]
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
