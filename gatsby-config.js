@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ivor-zalud/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `My name is Ivor Zalud and I am currently in a Master’s program in Computer Science at Northeastern University. I currently work as a Client Reporting Analyst at BlackRock. While I enjoyed the client interactions, I have realized that my strengths lie in the technical aspects of the job. As a client reporting analyst, I developed a variety of skills necessary for success in the field of Computer Science including: Effective communication skills for internal/external stakeholders, and automation with Python/SQL. In my MSCS program I have programmed in Java, C, Python, and SQL. I love to learn new skills and technology to then apply to my job. I am also analytical and enjoy taking complex problems and creating solutions. I believe that my experience as a Client Reporting analyst in conjunction with the skills I am developing in my MSCS program, will make me a valuable contributor to this industry. My current goal is to find a position in the technology field that leverages my Client Reporting and MSCS skills.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
