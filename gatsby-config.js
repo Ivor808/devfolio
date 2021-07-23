@@ -72,7 +72,7 @@ module.exports = {
         name:'Test',
         description:'test',
       }
-    ],
+    ]
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
