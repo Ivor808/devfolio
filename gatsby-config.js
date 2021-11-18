@@ -40,8 +40,13 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Hyperproof',
+        description: 'Software Engineer, November 2021 - Present',
+        link: 'https://hyperproof.io/',
+      },
+      {
         name: 'BlackRock',
-        description: 'Client Reporting Analyst, June 2018 - Present',
+        description: 'Client Reporting Analyst, June 2018 - September 2021',
         link: 'https://www.blackrock.com/us/individual',
       },
       {
