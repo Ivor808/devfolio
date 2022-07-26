@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ivor-zalud/`,
     // Content of the About Me section
-    about: `My name is Ivor Zalud and I am currently in a Master’s program in Computer Science at Northeastern University. I currently work as a Software Engineer at Hyperproof. In my MSCS program I have programmed in Java, C, Python, and SQL. I love to learn new skills and technology to then apply to my job. I am also analytical and enjoy taking complex problems and creating solutions. In my free time, you can find me outdoors hiking, fly fishing, or snowboarding.`,
+    about: `My name is Ivor! I currently work as a Software Engineer at Hyperproof. I have programmed in Java, typescript, react, C, Python, and SQL. I love to learn new skills and technology to then apply to my job. I am also analytical and enjoy taking complex problems and creating solutions. In my free time, you can find me outdoors hiking, fly fishing, or snowboarding.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
